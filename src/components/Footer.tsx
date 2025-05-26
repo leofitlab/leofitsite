@@ -58,9 +58,9 @@ const Footer: React.FC = () => {
         <div className="mt-8 pt-6 border-t border-tech-black-700">
           <div className="flex flex-col md:flex-row justify-between text-xs text-gray-500">
             <div className="mb-4 md:mb-0">
-              <a href="#" className="hover:text-neon-green-400 mr-4">Privacy Policy</a>
-              <a href="#" className="hover:text-neon-green-400 mr-4">Terms of Service</a>
-              <a href="#" className="hover:text-neon-green-400">Contact</a>
+              <a href="/privacy-policy" className="hover:text-neon-green-400 mr-4">Privacy Policy</a>
+              <a href="/termsOfService" className="hover:text-neon-green-400 mr-4">Terms of Service</a>
+              <a href="/contact" className="hover:text-neon-green-400">Contact</a>
             </div>
             <div>
               <form className="flex">
