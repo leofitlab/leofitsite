@@ -91,7 +91,7 @@ const FeatureSection: React.FC = () => {
                 <img 
                   src="https://i.postimg.cc/9MT2Vdmm/Flux-Dev-A-minimalist-techstyle-lion-head-logo-with-sharp-geom-3.jpg" 
                   alt="LeoFit Lab" 
-                  className="h-32 w-auto"
+                  className="h-64 w-auto"
                 />
               </div>
               <div className="md:w-2/3 md:pl-8">
