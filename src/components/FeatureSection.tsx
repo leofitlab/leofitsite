@@ -89,7 +89,7 @@ const FeatureSection: React.FC = () => {
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/3 mb-6 md:mb-0 flex justify-center">
                 <img 
-                  src="/logo.png" 
+                  src="https://i.postimg.cc/9MT2Vdmm/Flux-Dev-A-minimalist-techstyle-lion-head-logo-with-sharp-geom-3.jpg" 
                   alt="LeoFit Lab" 
                   className="h-32 w-auto"
                 />
