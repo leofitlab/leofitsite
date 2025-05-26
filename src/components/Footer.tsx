@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <div className="flex items-center">
-              <img src="https://postimg.cc/Ppt9Q8v9" alt="LeoFit Lab Logo" className="h-10 w-auto mr-2" />
+              <img src="https://i.postimg.cc/9MT2Vdmm/Flux-Dev-A-minimalist-techstyle-lion-head-logo-with-sharp-geom-3.jpg" alt="LeoFit Lab Logo" className="h-10 w-auto mr-2" />
               <span className="font-orbitron text-xl font-bold gradient-text">
                 LeoFit Lab
               </span>
