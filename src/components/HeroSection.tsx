@@ -82,7 +82,7 @@ const HeroSection: React.FC = () => {
         >
           <div className="flex justify-center mb-6">
             <img 
-              src="/logo.png" 
+              src="https://postimg.cc/Ppt9Q8v9" 
               alt="LeoFit Lab Logo" 
               className="h-32 md:h-40 w-auto"
             />
